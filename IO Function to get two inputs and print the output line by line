@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+void main() {
+    char a,b;
+    printf("Enter the character : ");
+    a=getchar();
+    b=getchar();
+    putchar(a);
+    printf("\n");
+    putchar(b);
+}
